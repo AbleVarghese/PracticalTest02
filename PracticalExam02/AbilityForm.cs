@@ -36,7 +36,7 @@ namespace PracticalExam02
         {
 
     /*
-    Statement 41 to 47 below is generating a random numbers and then converting it into string 
+    Statement 43 to 49 below is generating a random numbers and then converting it into string 
     and displaying it in the respective textboxes as output at the run time.
         */
 
